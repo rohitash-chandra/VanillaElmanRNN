@@ -5,4 +5,6 @@ Elman Recurrent Neural Networks with Back-propagation-through-time (BPTT)
  
  https://en.wikipedia.org/wiki/Backpropagation_through_time
  
+ based from: https://github.com/rohitash-chandra/feedforward-neural-network
+ 
  used in: https://github.com/rohitash-chandra/CooperativeCoevolution-RNN
