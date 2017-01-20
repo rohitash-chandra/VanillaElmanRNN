@@ -5,7 +5,7 @@
  
  https://en.wikipedia.org/wiki/Backpropagation_through_time
  
- used in: https://github.com/rohitash-chandra/CooperativeCoevolution-RNN
+ based on: https://github.com/rohitash-chandra/feedforward-neural-network
  */
 #include <iostream>
 #include <stdlib.h>
